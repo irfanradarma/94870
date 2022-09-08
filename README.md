@@ -10,5 +10,8 @@ I've always assumed that I know a lot about data visualization; I'd like to prov
 I want to learn everything I can in this subject so that I can use data effectively as a communicator.
 
 # Portfolio
-This section will be updated with the works I would do in this class.
+
+## Visualizing Government Debt
+### Part 1: Working with web-based visualization tools and data
+<iframe src="https://data.oecd.org/chart/6O7h" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6O7h" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
