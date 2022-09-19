@@ -43,7 +43,14 @@ However, in the following explanation, the article addresses disaster incidents 
 
 
 Here are the adjustments I'm trying to apply to the previous graph:
-> I changed the title, which was previously very general and open to more segmentation, so that readers have an initial idea before looking at the graph.
-> Assuming that the relevant context is the alarming number of events in 2020, I omitted the cost information previously represented by the y axis that at the resulted in the use of lines for the statistics (lines) variables.
-> For color, I opted to emphasize severe storms, which, based on the trend, are becoming more frequent; even in 2020 data, there are only severe storms. I accent it with a red color that provides the appearance of being alarming. Furthermore, I give the other variables a very soft tint variation so that they do not distract the variables I select to highlight, but still can be identified from one another because I choose to keep the 7 disaster variables on this graph.
-> I'm annotating the 2020 data because the CNN article was written in the middle of the year (July), so the author's perspective that I'm attempting to approximate is that while the 2020 total is not greater than 2019, it is only the first half of 2020 and there is a possibility that the numbers will continue to grow in the second half of 2020. The annotation supports this, also for the readers of this graph for the purposes of my current assignment so as not to mistake it for one year 2020 data.
+1. I changed the title, which was previously very general and open to more segmentation, so that readers have an initial idea before looking at the graph.
+2. Assuming that the relevant context is the alarming number of events in 2020, I omitted the cost information previously represented by the y axis that at the resulted in the use of lines for the statistics (lines) variables.
+3. For color, I opted to emphasize severe storms, which, based on the trend, are becoming more frequent; even in 2020 data, there are only severe storms. I accent it with a red color that provides the appearance of being alarming. Furthermore, I give the other variables a very soft tint variation so that they do not distract the variables I select to highlight, but still can be identified from one another because I choose to keep the 7 disaster variables on this graph.
+4. I'm annotating the 2020 data because the CNN article was written in the middle of the year (July), so the author's perspective that I'm attempting to approximate is that while the 2020 total is not greater than 2019, it is only the first half of 2020 and there is a possibility that the numbers will continue to grow in the second half of 2020. The annotation supports this, also for the readers of this graph for the purposes of my current assignment so as not to mistake it for one year 2020 data.
+
+
+## Feedback
+### First responder
+#### First glance
+Can you catch the meaning of the graph? Please elaborate:
+> I needed time to process what was concerning about 2020 at the time. I was wondering what the meaning and correlation of 2020 in the title and 1st half 2020 on the box were. Looking at the box, 2020 is not the highest compared to previous years' data. What is the point of making this graph if the data for 2020 is not higher than it was in previous years? I then begun to realize that the data for 2020 may only be half a year, as opposed to previous years, which had full year data.
