@@ -43,7 +43,7 @@ However, in the following explanation, the article addresses disaster incidents 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1663622640698');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  vizElement.style.width='90%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                   
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
@@ -116,7 +116,7 @@ I did not use the second evaluator's feedback for improvement this time since I 
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1663649993922');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  vizElement.style.width='90%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
