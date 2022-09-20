@@ -69,7 +69,7 @@ This second part of test took about 1-2 minutes before the evaluator said he's d
 > It seems that what I said earlier is not much different from what I caught in this second look. So, my previous opinion is still valid.
 
 *What do you think is bad about the graph?*
-> In general, I have no issues to this type of visualization. I also had no issues with the color scheme, as it appeared to be done on purpose to showcase the red one. I brought up the "first half of 2020" box in the middle again, which I found bothersome. I understand that there needs to be a stronger emphasis on the fact that the 2020 data is not a one-year snapshot. However, your method does not appear to be the best.
+> In general, I have no issues to this type of visualization. I also have no issues with the color scheme, as it appeared to be done on purpose to showcase the red one. I brought up the "first half of 2020" box in the middle again, which I found bothersome. I understand that there needs to be a stronger emphasis on the fact that the 2020 data is not a one-year snapshot. However, your method does not appear to be the best.
 
 *Any concrete suggestions to improve what you think is not good enough?*
 > There are several things that come to mind: one, maybe the title of the graph can explain more explicitly about the first half of 2020. Two, the red box in the middle can be clarified again, don't make it too short and become like a puzzle. The last one, may be able to give a certain accent to the 2020 block which indicates that it is only half year data.
@@ -88,3 +88,11 @@ For the second evaluator, the method used is different, not directly. I did not 
 
 *Is there anything you would change or do differently?*
 > I would probably add the name of the area where this graph is based on the title of the graph so that the viewres can tell where theses disasters happened.
+
+## Takeaways from the two sources
+According to the responses I received, they both responded quite differently. Because we met in person, the first evaluator was more elaborative because the talk seemed to flow naturally. The second person, on the other hand, responded to my query more directly. Because of this, as well as the fact that he was unaware of the context of the news, he mainly responded in brief sentences. However, there are certain similarities between the two points of view as follows:
+> The absence of anything dazzling or distracting from its visual look. Both judge this graph to be ordinary.
+>> asdasd
+> asdasd
+>> asdasd
+
