@@ -1,4 +1,5 @@
 # Critique By Design
+by Irfan Radarma
 
 <img
   src="bill-dollar-disaster.jpg"
