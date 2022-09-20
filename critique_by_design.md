@@ -52,26 +52,39 @@ Here are the adjustments I'm trying to apply to the previous graph:
 ## Feedback
 I have two evaluators to test my sketch. I used different method for them to evaluate it.
 
-### First evaluator
-I directly asked the first evaluator (grad student, male, 20-30 years old) for his opinion by displaying my public tableau graph. I tried to demonstrate this test in two parts: first, I asked him to look at this graph for 15 seconds and then had some questions for him to answer. The second part is that I gave him as much time as he desired before asking for his opinion again. The following is a summary of these evaluation:
+### First evaluator (grad student, 20s)
+I directly asked the first evaluator for his opinion by displaying my public tableau graph. I tried to demonstrate this test in two parts: first, I asked him to look at this graph for 15 seconds and then had some questions for him to answer. The second part is that I gave him as much time as he desired before asking for his opinion again. The following is a summary of these evaluation:
 
 #### First glance
-Can you catch what the graph is telling you? Please elaborate:
+*Can you catch what the graph is telling you? Please elaborate*
 > I needed time to process what was concerning about 2020 at the time. I was wondering what the meaning and correlation of 2020 in the title and 1st half 2020 on the box were. Looking at the box, 2020 is not the highest compared to previous years' data. What is the point of making this graph if the data for 2020 is not higher than it was in previous years? I then begun to realize that the data for 2020 may only be half a year, unlike the previous years, which had full year data.
 
-Do you feel overwhelmed by the visual? Do you remember anything stands out from the visual?
+*Do you feel overwhelmed by the visual? Do you remember anything stands out from the visual?*
 > Not really. That was a pretty typical bar graph. I remember the red square with the "1st half of 2020" caught my eyes instantly. But again, I was a little bit confused when comparing it with the title. 
 
 #### Second look
 This second part of test took about 1-2 minutes before the evaluator said he's done observing the graph. The following is the summary of second evaluation:
 
-Would you like to clarify or correct your opinion at the previous first glance?
+*Would you like to clarify or correct your opinion at the previous first glance?*
 > It seems that what I said earlier is not much different from what I caught in this second look. So, my previous opinion is still valid.
 
-What do you think is bad about the graph?
+*What do you think is bad about the graph?*
 > In general, I have no issues to this type of visualization. I also had no issues with the color scheme, as it appeared to be done on purpose to showcase the red one. I brought up the "first half of 2020" box in the middle again, which I found bothersome. I understand that there needs to be a stronger emphasis on the fact that the 2020 data is not a one-year snapshot. However, your method does not appear to be the best.
 
-Any concrete suggestions to improve what you think is not good enough?
+*Any concrete suggestions to improve what you think is not good enough?*
 > There are several things that come to mind: one, maybe the title of the graph can explain more explicitly about the first half of 2020. Two, the red box in the middle can be clarified again, don't make it too short and become like a puzzle. The last one, may be able to give a certain accent to the 2020 block which indicates that it is only half year data.
 
+### Second evaluator (public employee, 30s)
+For the second evaluator, the method used is different, not directly. I did not meet in person, but sent my graphic images accompanied by questions. The following is a summary of his response. I did not meet him in person, but instead provided my explicit images digitally along with questions, without giving him any context about the graph. This is a summary of his response.
 
+*Can you describe what the graph is telling you?*
+> The graph that shows the number of times several disasters occured over the span of 40 years between 19800 and 2020.
+
+*Is there anything you find surprising or confusing?*
+> I find this graph to be normal looking, nothing out of ordinary.
+
+*Who do you think is the intended audience for this?*
+> The graph might be generated to give insight for people who are in charge of disaster relief and/or prevention in a particular area, so that those people can prepare for disasters that may occur in the future based on the information in the graph.
+
+*Is there anything you would change or do differently?*
+> I would probably add the name of the area where this graph is based on the title of the graph so that the viewres can tell where theses disasters happened.
