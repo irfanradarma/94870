@@ -87,16 +87,21 @@ For the second evaluator, the method used is different, not directly. I did not 
 > The graph might be generated to give insight for people who are in charge of disaster relief and/or prevention in a particular area, so that those people can prepare for disasters that may occur in the future based on the information in the graph.
 
 *Is there anything you would change or do differently?*
-> I would probably add the name of the area where this graph is based on the title of the graph so that the viewres can tell where theses disasters happened.
+> I would probably add the name of the area where this graph is based on the title of the graph so that the viewers can tell where these disasters happened.
 
 ## Takeaways from the two sources
 According to the responses I received, they both responded quite differently. Because we met in person, the first evaluator was more elaborative because the talk seemed to flow naturally. The second person, on the other hand, responded to my query more directly. Because of this, as well as the fact that he was unaware of the context of the news, he mainly responded in brief sentences. However, there are certain similarities between the two points of view as follows:
 > The absence of anything dazzling or distracting from its visual look. Both consider this graph to be ordinary/typical.
 >> One of my main goals after seeing and criticizing the previous graph was to reduce the presentation, which I believed was too dense, and it appeared to work. However, it is possible that I oversimplified the graph so that it does not appear attractive at first glance.
 
-There is no difference of viewpoint between the two, as far as I can tell from their responses. What exists is that each mentions something different, hence they do not contradict each other. Among the suggestions and responses (implicit feedback), these are the improvement I would make for the next iteration process:
-> Related to increased clarity of the first half of 2020 cut-off
-- Be more explicit in title about the first half of 2020
-- Thicken the title text with the expectation that readers will start looking from the title
-- Add a subtitle stating the data cut-off
-- Add an extra accent to the 2020 data block
+There is no difference of viewpoint between the two, as far as I can tell from their responses. What exists is that each mentions something different, hence they do not contradict each other. Among the suggestions and responses (implicit feedback), especially those related to increased clarity of the 2020 data, these are the improvement I would make for the next iteration process:
+> - Be more explicit in title about the first half of 2020
+> - Thicken the title text with the expectation that readers will start looking from the title
+> - Remove the red square in the middle that was previously used to denote the first half of 2020
+> - Add a subtitle stating the data cut-off
+> - Add an extra accent to the 2020 data block
+
+I did not use the second evaluator's feedback for improvement this time since I believed it stemmed from his lack of knowledge of the news context. For example, the addition of the name of the location where the disaster occurred was not even indicated in the previous visualization, and the data source do not provide this detail either. CNN, on the other hand, discussed this location-related topic in its explanatory paragraphs. So in my opinion, because this graph was originally an integral part of the news article, feedback related to the location can be placed outside the graph alone.
+
+## The first iteration of recreating solution
+<div class='tableauPlaceholder' id='viz1663649993922' style='position: relative'><noscript><a href='#'><img alt='The number of severe storms in the first half of 2020 is alarming ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;Disasater&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Disasater&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;Disasater&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1663649993922');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
