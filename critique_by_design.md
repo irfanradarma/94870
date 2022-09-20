@@ -91,8 +91,9 @@ For the second evaluator, the method used is different, not directly. I did not 
 
 ## Takeaways from the two sources
 According to the responses I received, they both responded quite differently. Because we met in person, the first evaluator was more elaborative because the talk seemed to flow naturally. The second person, on the other hand, responded to my query more directly. Because of this, as well as the fact that he was unaware of the context of the news, he mainly responded in brief sentences. However, there are certain similarities between the two points of view as follows:
-> The absence of anything dazzling or distracting from its visual look. Both judge this graph to be ordinary.
->> asdasd
-> asdasd
->> asdasd
-
+> The absence of anything dazzling or distracting from its visual look. Both consider this graph to be ordinary/typical.
+>> One of my main goals after seeing and criticizing the previous graph was to reduce the presentation, which I believed was too dense, and it appeared to work. However, it is possible that I oversimplified the graph so that it does not appear attractive at first glance.
+There is no difference of viewpoint between the two, as far as I can tell from their responses. What exists is that each mentions something different, hence they do not contradict each other. Among the suggestions and responses (implicit feedback), these are the improvement I would make for the next iteration process:
+> Be more explicit in title about the first half of 2020
+> Thicken the title text with the expectation that readers will start looking from the title
+> 
