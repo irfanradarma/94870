@@ -121,3 +121,20 @@ I did not use the second evaluator's feedback for improvement this time since I 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## The second iteration (in-class critique)
+In the last iteration, I got some very good feedback from classmates. Here are the ideas I am willing to implement in to improve my graph:
+> Despite agreeing with the idea to make one color stands out among the other, the position of red bar appears to be wiggling up and down. It would be better if the red bars are applied at the bottom so it does not look wobbly.
+> Because not all readers begin by reading the title, the red box that was previously in the center (1st half 2020) is really quite helpful in directing readers. So it's best to put it back, but make it less conspicuous.
+> The text box used to explain the first half of 2020 should be made somewhat transparent so that it does not block the bar graph.
+
+<div class='tableauPlaceholder' id='viz1663717299004' style='position: relative'><noscript><a href='#'><img alt='1st half of 2020: The number of disasters is alarming ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DisasaterFinal&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DisasaterFinal&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DisasaterFinal&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1663717299004');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
+  var scriptElement = document.createElement('script');                  
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';               
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);             
+</script>
+
