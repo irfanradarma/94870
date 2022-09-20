@@ -95,6 +95,8 @@ According to the responses I received, they both responded quite differently. Be
 >> One of my main goals after seeing and criticizing the previous graph was to reduce the presentation, which I believed was too dense, and it appeared to work. However, it is possible that I oversimplified the graph so that it does not appear attractive at first glance.
 
 There is no difference of viewpoint between the two, as far as I can tell from their responses. What exists is that each mentions something different, hence they do not contradict each other. Among the suggestions and responses (implicit feedback), these are the improvement I would make for the next iteration process:
+> Related to increased clarity of the first half of 2020 cut-off
 - Be more explicit in title about the first half of 2020
 - Thicken the title text with the expectation that readers will start looking from the title
-- 
+- Add a subtitle stating the data cut-off
+- Add an extra accent to the 2020 data block
