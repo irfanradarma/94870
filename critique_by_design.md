@@ -7,7 +7,7 @@
   style="display: inline-block; margin: 0 auto; max-width: 800px">
 
 
-This graph was taken from CNN's website and is headlined "US hits 10th billion-dollar weather disaster of the year - at a record pace." The graph was obtained from the website of the National Centers for Environmental Information (embedded).
+This graph was taken from CNN's website and is headlined "[US hits 10th billion-dollar weather disaster of the year - at a record pace](https://www.cnn.com/2020/07/12/weather/billion-dollar-weather-disasters-2020/index.html)". The graph was obtained from the website of the National Centers for Environmental Information (embedded).
 
 ## Critique
 
