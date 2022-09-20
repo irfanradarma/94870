@@ -4,7 +4,7 @@
   src="bill-dollar-disaster.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 700px">
+  style="display: inline-block; margin: 0 auto; max-width: 800px">
 
 
 This graph was taken from CNN's website and is headlined "US hits 10th billion-dollar weather disaster of the year - at a record pace." The graph was obtained from the website of the National Centers for Environmental Information (embedded).
@@ -33,7 +33,7 @@ What I understand is that the graph contains at least two main contexts, as show
   src="1st graph.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 700px">
+  style="display: inline-block; margin: 0 auto; max-width: 800px">
   
 However, in the following explanation, the article addresses disaster incidents in specific places and shows a graph that I criticize on this occasion. To recapitulate, this graph is meant to detail disaster events by year. If such is the case, the information "number of events" appears to be more essential, whereas "cost in billions" appears to be unnecessary in this visualization. In my upcoming redesign attempts, I will apply that context assumptions.
 
