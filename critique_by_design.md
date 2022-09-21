@@ -8,7 +8,7 @@ by Irfan Radarma
   style="display: inline-block; margin: 0 auto; max-width: 800px">
 
 
-This graph was taken from CNN's website and is headlined "[US hits 10th billion-dollar weather disaster of the year - at a record pace](https://www.cnn.com/2020/07/12/weather/billion-dollar-weather-disasters-2020/index.html)". The graph was obtained from the website of the [National Centers for Environmental Information](https://www.ncei.noaa.gov/access/billions/summary-stats/US/2020) (embedded).
+This graph was taken from CNN's website and is headlined "[US hits 10th billion-dollar weather disaster of the year - at a record pace](https://www.cnn.com/2020/07/12/weather/billion-dollar-weather-disasters-2020/index.html)". The graph was obtained from the website of the [National Centers for Environmental Information](https://www.ncei.noaa.gov/access/billions/summary-stats/US/2020) (embedded). The following is a narrative excerpt regarding the news context in which the graph is used: "Since 1980, the US has averaged close to seven billion-dollar weather disasters annually. But the last five years have seen nearly 14 severe storms on average. There will be more this year if the current pace continues, according to NOAA."
 
 ## Critique
 
