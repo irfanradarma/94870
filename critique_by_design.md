@@ -99,7 +99,7 @@ For the second evaluator, the method used is different, not directly. I did not 
 > I would probably add the name of the area where this graph is based on the title of the graph so that the viewers can tell where these disasters happened.
 
 ## Takeaways from the two sources
-According to the responses I received, they both responded quite differently. Because we met in person, the first evaluator was more elaborative because the talk seemed to flow naturally. The second person, on the other hand, responded to my query more directly. Because of this, as well as the fact that he was unaware of the context of the news, he mainly responded in brief sentences. However, there are certain similarities between the two points of view as follows:
+According to the responses I received, they both responded quite differently. The first evaluator was more elaborative since our conversation seemed to flow smoothly when we met in person. The second person, on the other hand, responded to my query more directly. Because of this, as well as the fact that he was unaware of the context of the news, he mainly responded in brief sentences. However, there are certain similarities between the two points of view as follows:
 > The absence of anything dazzling or distracting from its visual look. Both consider this graph to be ordinary/typical.
 >> One of my main goals after seeing and criticizing the previous graph was to reduce the presentation, which I believed was too dense, and it appeared to work. However, it is possible that I oversimplified the graph so that it does not appear attractive at first glance.
 
