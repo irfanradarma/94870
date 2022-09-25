@@ -77,7 +77,7 @@ After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, a
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
 <img
-  src="weekend.png"
+  src="Screenshot 2022-09-24 234822.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
