@@ -98,7 +98,7 @@ Therefore....
   
   
 # The Data
-My project uses solely income and living costs data from Pittsburgh and Bali. My data sources are [livingcost.org](https://livingcost.org/cost/united-states/pa/pittsburgh) and numbeo.com(https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Indonesia&city1=Bali&country2=United+States&city2=Pittsburgh%2C+PA&displayCurrency=USD). Because the data itself is quite straight forward (not in the form of time series or multiple variable comparisons), I do not have to download them and plan on copying them from the website.
+My project uses solely income and living costs data from Pittsburgh and Bali. My data sources are [livingcost.org](https://livingcost.org/cost/united-states/pa/pittsburgh) and [numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Indonesia&city1=Bali&country2=United+States&city2=Pittsburgh%2C+PA&displayCurrency=USD). Because the data itself is quite straight forward (not in the form of time series or multiple variable comparisons), I do not have to download them and plan on copying them from the website.
 
 # Method and Medium
 
