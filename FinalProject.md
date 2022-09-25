@@ -1,4 +1,5 @@
 # Outline of Final Project
+Irfan Radarma (tirfanra)
 
 ## Project Summary
 I want to show my audience the benefits of being a digital nomad in Bali. Then I encourage them to consider becoming one.
@@ -6,7 +7,7 @@ I want to show my audience the benefits of being a digital nomad in Bali. Then I
 ## Project Structure
 I wish to express this idea through the introduction of a fictional character (named Jack) who has the characteristic of a typical Pittsburgh citizen. I will use Jack in the story to make a comparison between his life as a regular Pittsburger and as a digital nomad in Bali.
 
-The structure I have used here tries to adhere to the textbook, which divides it into three parts: setup, conflict, and resolution. In the setup section, I want to present the average Pittsburgh income and living expense data taht I obtained from livingcost.org. Furthermore, I do not use or process data to create a visual in the conflict section. The conflict I wish to depict is tied to general reality about Jack's monotonous life cycle (Work-Save-Travel-Repeat). Jack then found a solution to that by becoming a digital nomad in Bali, a destination he ad always longed to visit. In the resolution part, I will show a comparison of living expenses data in Pittsburgh and Bali that I got from numbeo.com. I will try to make graphs out of these comparisons. Then, at the end, I will compare Jack's life being in Pittsburgh and Bali using photographs from unsplash.com. The final structured is closed bby a call to action, particularly, "Be like Jack! Because why not?"
+The structure I have used here tries to adhere to the textbook, which divides it into three parts: setup, conflict, and resolution. In the setup section, I want to present the average Pittsburgh income and living expense data that I obtained from [livingcost.org](https://livingcost.org/cost/united-states/pa/pittsburgh). Furthermore, I do not use or process data to create a visual in the conflict section. The conflict I wish to depict is tied to general reality about Jack's monotonous life cycle (Work-Save-Travel-Repeat). Jack then found a solution to that by becoming a digital nomad in Bali, a destination he had always longed to visit. In the resolution part, I will show a comparison of living expenses data in Pittsburgh and Bali that I got from [numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Indonesia&city1=Bali&country2=United+States&city2=Pittsburgh%2C+PA&displayCurrency=USD). I will try to make graphs out of these comparisons. Then, at the end, I will compare Jack's life being in Pittsburgh and Bali using photographs from unsplash.com. The final structured is closed bby a call to action, particularly, "Be like Jack! Because why not?"
 
 In the following sections, I will try to illustrate some ideas for each of the substructures I mention above.
 
@@ -39,10 +40,11 @@ During this time, Jack feels stuck in a year-long cycle of Work, Save, Travel, a
 After doing some internet research, he discovers that being a digital nomad could be one possibility. Jack finds that one of the vacation spots on his bucket list has now offered a visa for remote workers, and even better, it is tax-free. After realizing this, he seeks more information about life in Bali in comparison to Pittsburgh.
 
 <img
-  src="news headline.png"
+  src="euro.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+*source : [euronews.com](https://www.euronews.com/travel/2022/06/24/balis-new-digital-nomad-visa-means-foreigners-can-live-and-work-in-indonesia-tax-free)*
 
 In general, he learns that the cost of living in Bali is 55.51% that of living in Pittsburgh.
 
@@ -69,18 +71,21 @@ After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, a
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
-  
+*Photos by [Christopher Lemercier](https://unsplash.com/photos/tWPDKhDaE4k) and [Daniel Faust](https://unsplash.com/photos/pQO10MluyrE) on [Unsplash](unsplash.com)*
+
 <img
   src="afternoon.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+*Photos by [Zachary Anderson](https://unsplash.com/photos/gAPvT5I2wR0) and [Afeeq Nadzrin]([https://unsplash.com/@afeeqnadzrin](https://unsplash.com/photos/rIhcqUebiGw)) on [Unsplash](unsplash.com)*
   
 <img
   src="Screenshot 2022-09-24 234822.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+*Photos by [Joshua Peacock](https://unsplash.com/photos/ae4KypxWHr8) and [Filippo Cesarini](https://unsplash.com/photos/h5PDmcBqRXs) on [Unsplash](unsplash.com)*
 
 Therefore....
 
