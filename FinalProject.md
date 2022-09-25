@@ -63,26 +63,28 @@ Following that, he attempts to gather more extensive price comparison data for g
 Overall, the differences are extremely considerable, and Jack eventually attempts to locate a new position that allows for remote work. He is willing to earn 10% less than his prior salary because the margin of living costs in Bali is expected to be just approximately 50% of what he normally spends in Pittsburgh.
 
 After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, as follows:
+
 <img
   src="house.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
-  <img
+<img
   src="afternoon.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
-  <img
+<img
   src="weekend.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
-  
-  Therefore....
-  <img
+
+Therefore....
+
+<img
   src="call to action.png"
   alt="Alt text"
   title="Optional title"
