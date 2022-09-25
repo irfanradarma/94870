@@ -72,6 +72,7 @@ After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, a
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+
 *Photos by [Christopher Lemercier](https://unsplash.com/photos/tWPDKhDaE4k) and [Daniel Faust](https://unsplash.com/photos/pQO10MluyrE) on [Unsplash](unsplash.com)*
 
 <img
@@ -79,6 +80,7 @@ After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, a
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+
 *Photos by [Zachary Anderson](https://unsplash.com/photos/gAPvT5I2wR0) and [Afeeq Nadzrin]([https://unsplash.com/@afeeqnadzrin](https://unsplash.com/photos/rIhcqUebiGw)) on [Unsplash](unsplash.com)*
   
 <img
@@ -86,6 +88,7 @@ After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, a
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+
 *Photos by [Joshua Peacock](https://unsplash.com/photos/ae4KypxWHr8) and [Filippo Cesarini](https://unsplash.com/photos/h5PDmcBqRXs) on [Unsplash](unsplash.com)*
 
 Therefore....
