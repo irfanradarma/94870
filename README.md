@@ -15,3 +15,10 @@ The following is the assignment I have done for the class:
 
 ### [Visualizing Government Debt](https://irfanradarma.github.io/94870/dataviz2)
 Prof. Goranson instructed us to utilize General Debt data from the OECD website for this project. This assignment is divided up into three parts: 1) embed a visualization from the OECD website, 2) use the same data to build visualizations in Flourish, and 3) develop my own visualization in Flourish.
+
+### [Critique by Design](https://irfanradarma.github.io/94870/critique_by_design)
+In this assignment, we were asked to look for examples of poor dataviz, then critique them and rework them in accordance with the fundamentals we learned in this class.
+
+### Final Project
+#### [Part I: Outline](https://irfanradarma.github.io/94870/FinalProject)
+This is the first part in my final project. I present a brief explanation of the project, complete with its structure, along with initial sketches. Furthermore, I give data sources as well as plans for methods and mediums for the final form.
