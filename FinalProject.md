@@ -9,7 +9,8 @@ I wish to express this idea through the introduction of a fictional character (n
 
 The structure I have used here tries to adhere to the textbook, which divides it into three parts: setup, conflict, and resolution. In the setup section, I want to present the average Pittsburgh income and living expense data that I obtained from [livingcost.org](https://livingcost.org/cost/united-states/pa/pittsburgh). Furthermore, I do not use or process data to create a visual in the conflict section. The conflict I wish to depict is tied to general reality about Jack's monotonous life cycle (Work-Save-Travel-Repeat). Jack then found a solution to that by becoming a digital nomad in Bali, a destination he had always longed to visit. In the resolution part, I will show a comparison of living expenses data in Pittsburgh and Bali that I got from [numbeo.com](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Indonesia&city1=Bali&country2=United+States&city2=Pittsburgh%2C+PA&displayCurrency=USD). I will try to make graphs out of these comparisons. Then, at the end, I will compare Jack's life being in Pittsburgh and Bali using photographs from unsplash.com. The final structured is closed bby a call to action, particularly, "Be like Jack! Because why not?"
 
-In the following sections, I will try to illustrate some ideas for each of the substructures I mention above.
+# Initial Sketches
+In the following sections, I will try to illustrate some ideas for each of the substructures I mentioned above.
 
 ### Setup
 Jack is a 26-year-old man who presently resides and works in Pittsburgh, Pennsylvania. He has an income that is comparable to the Pittsburgh median income of $4,083.
@@ -95,15 +96,20 @@ Therefore....
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
+  
+# The Data
+My project uses solely income and living costs data from Pittsburgh and Bali. My data sources are [livingcost.org](https://livingcost.org/cost/united-states/pa/pittsburgh) and numbeo.com(https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Indonesia&city1=Bali&country2=United+States&city2=Pittsburgh%2C+PA&displayCurrency=USD). Because the data itself is quite straight forward (not in the form of time series or multiple variable comparisons), I do not have to download them and plan on copying them from the website.
+
+# Method and Medium
+
+## Tools
+Shorthand will be my primary platform. I'd like to utilize a tool that allows me to incorporate icons such as money in my graphs. For that, I plan to use Tableau or other tools that will help me to realize my idea. The final project's delivery method mimics the most of the examples shown in class, essentially scrolling down from top to bottom to follow the story of the fictional character I utilized. I hope that readers will understand this story-telling style more simply.
 
 ## Presentation Plot Plan
-
-In my opinion, the presentation will begin with less excitement, especially when I display general info on Pittsburgh. Furthermore, the mood will continue to rise as new information concerning Bali becomes available. I believe the climax occurs at the end, when the photographs are compared.
+In the one-minute presentation, I will emphasize on the setup for Jack's introduction, his dull life cycle, the discovery of his digital nomad solution, basic information about how Jack benefits from being a digital nomad, and photo comparison. In my opinion, the presentation will begin with less excitement, especially when I display general info on Pittsburgh. Furthermore, the mood will continue to rise as new information concerning Bali becomes available. I believe the climax occurs at the end, when the photographs are compared. 
 
   <img
   src="mood plan.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
-  
-
