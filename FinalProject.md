@@ -88,13 +88,15 @@ After 2 months in Bali, Jack shares photos of his life in Pittsburgh and Bali, a
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
-  
-  ## Presentation Plot Plan
-  
+
+## Presentation Plot Plan
+
+In my opinion, the presentation will begin with less excitement, especially when I display general info on Pittsburgh. Furthermore, the mood will continue to rise as new information concerning Bali becomes available. I believe the climax occurs at the end, when the photographs are compared.
+
   <img
   src="mood plan.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
-In my opinion, the presentation will begin with less excitement, especially when I display general info on Pittsburgh. Furthermore, the mood will continue to rise as new information concerning Bali becomes available. I believe the climax occurs at the end, when the photographs are compared.
+
