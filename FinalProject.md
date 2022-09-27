@@ -14,6 +14,7 @@ In the following sections, I will try to illustrate some ideas for each of the s
 
 ### Setup
 Jack is a 26-year-old man who presently resides and works in Pittsburgh, Pennsylvania. He has an income that is comparable to the Pittsburgh median income of $4,083.
+
 <img
   src="monthly.png"
   alt="Alt text"
@@ -116,3 +117,8 @@ In the one-minute presentation, I will emphasize on the setup for Jack's introdu
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
+
+# In-Class Critique
+Following the September 27 class meeting, I received some feedback on my final project. Here are the suggestions that I really consider implementing in the next iteration:
+- "The conflict is less emotional. Perhaps you could try to bolster it using memes, social data/facts, or famous people's quotes."
+- "In addition to the call to action, you may provide a link for readers to begin exploring how to become digital nomads, such as a link to discover housing in Bali."
