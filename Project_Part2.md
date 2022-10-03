@@ -5,6 +5,6 @@ This is the outline from the previous iteration of this project: [Project Outlin
 
 ## The Story Board
 I created the draft of my story board using Shorthand.
-Please visit this link to view the draft: 
+Please visit this link to have a better experience viewing my storyboard: [shorthand.com](https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/index.html)
 
 <script src="https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/embed.js"></script>
