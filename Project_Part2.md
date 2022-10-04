@@ -55,7 +55,7 @@ Here's the summary of feedbacks worth noticing:
 - The map picture I used for the zoom-in zoom-out feature is not high-res
 - The meme appearance is not smoothly following the text it refers
 - The chart used to tell the top-10 location where digital nomads reside is somehow questionable
-- 
+- Tableau dimension is becoming a problem in different devices. Some part might be missing because of the smaller dimension device used to open the storyboard
 
 
 ## Embedded Storyboard
