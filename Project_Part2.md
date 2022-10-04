@@ -6,7 +6,8 @@ This is the outline from the previous iteration of this project: [Project Outlin
 ## The Story Board
 I created the draft of my story board using Shorthand.
 Please visit this link to have a better experience viewing my storyboard: [shorthand.com](https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/index.html)
-Atau storyboard saya juga saya embed di akhir halaman ini. 
+
+I also embed my storyboard at the end of this page. 
 
 ## The Feedback
 ### The Method
@@ -50,6 +51,11 @@ The benefit of conducting written interviews is that all responses are fully doc
 > - [f] •	On Andrew Story: (1) Love the meme! It will be better if the meme appears when we hover over the picture than scroll the page because I can not read the sentence on that meme. (2) Clicking on the sweater redirect me to the Walmart website, it’s distracting me. On Location Comparison: (1) On the chart “Where Digital Nomad Reside”, I cannot find Portugal and Indonesia at glance. In my opinion, it’s better to take out “Others” in the Treemap diagram. (2) On the “Income Per Capita: Indonesia is Worth Looking For”, Indonesia’s and Thailand’s charts not showing up if I do not scroll down the chart. I think it’s better to make sure that all of the information on the chart is visible. It is also better if I know the meaning of the red and green bars on this chart. Overall: In my opinion, it will be better if there’s only one “Heading” on the page. No need to add “Heading” both in the text and chart on one page if they have the same messages.
 
 ### Reflection
+Here's the summary of feedbacks worth noticing:
+- The map picture I used for the zoom-in zoom-out feature is not high-res
+- The meme appearance is not smoothly following the text it refers
+- The chart used to tell the top-10 location where digital nomads reside is somehow questionable
+- 
 
 
 ## Embedded Storyboard
