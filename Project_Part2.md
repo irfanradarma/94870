@@ -16,7 +16,7 @@ In the attempt to get feedback on my storyboard this time, I didn't have much ti
 - Do you feel overwhelmed by the visual or information given in the storyboard? If yes, please specify which of them
 - Any concrete suggestions to improve what you think is not good enough?
 
-### The Answer
+### The Survey
 The following is brief information about my respondents: (I will use this numbering code in the next discussion)
 - [a] Female (30s), Grad Student
 - [b] Male (20s), Grad Student
@@ -50,12 +50,21 @@ The benefit of conducting written interviews is that all responses are fully doc
 > - [e] I notice that the visual of “what people say about remote working” can be improve by making “flexible schedule” balloon bigger since it is considered the most important benefit by the respondent. It will help reader notice this survey result instantly. The other thing is, I personally think that it would be lovely if the “tableu” trademark and several symbols under visual can be can be removed.
 > - [f] •	On Andrew Story: (1) Love the meme! It will be better if the meme appears when we hover over the picture than scroll the page because I can not read the sentence on that meme. (2) Clicking on the sweater redirect me to the Walmart website, it’s distracting me. On Location Comparison: (1) On the chart “Where Digital Nomad Reside”, I cannot find Portugal and Indonesia at glance. In my opinion, it’s better to take out “Others” in the Treemap diagram. (2) On the “Income Per Capita: Indonesia is Worth Looking For”, Indonesia’s and Thailand’s charts not showing up if I do not scroll down the chart. I think it’s better to make sure that all of the information on the chart is visible. It is also better if I know the meaning of the red and green bars on this chart. Overall: In my opinion, it will be better if there’s only one “Heading” on the page. No need to add “Heading” both in the text and chart on one page if they have the same messages.
 
-### Reflection
+### Reflection from the survey
 Here's the summary of feedbacks worth noticing:
 - The map picture I used for the zoom-in zoom-out feature is not high-res
 - The meme appearance is not smoothly following the text it refers
 - The chart used to tell the top-10 location where digital nomads reside is somehow questionable (the order of data and the label size can be improved)
 - Tableau dimension is becoming a problem in different devices. Some part might be missing because of the smaller dimension device used to open the storyboard
+
+### In-class Critique
+The critique session in this class is more straightforward, showing which parts don't work in my storyboard. In addition to the feedback from my survey, I will consider implementing the following suggestions I obtained from critique session in class:
+- The title of the storyboard would be better if it was more straight forward like "Even you can be the digital nomad, let's find out how"
+- One trend visualizations should be converted to a line chart (the trend of Digital Nomad in the US)
+- "Andrew's Little Lab" might not be the best word for the section
+- The income per capita chart need some highlights just like how the textbook taught us
+- Tableau somehow is not very adaptive in the website (just like how the viz dimension in my storyboard that is sometimes off). Try flourish for the not very comprehensive data viz.
+
 
 
 ## Embedded Storyboard
