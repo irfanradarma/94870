@@ -27,7 +27,7 @@ From this:
 
 To this:
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11130067"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### [Critique by Design](https://irfanradarma.github.io/94870/critique_by_design)
 In this assignment, we were asked to look for examples of poor dataviz, then critique them and rework them in accordance with the fundamentals we learned in this class.
@@ -63,6 +63,6 @@ Part II saw me doing my best to materialize the ideas established in Part I, but
 #### [Part III: Final Deliverable](https://irfanradarma.github.io/94870/Final_Project)
 Part III closes the previous iteration by concluding the iteration process of making this project and reflecting on the 1-minute pitch that has been done to deliver this project. I made a big adjustment to the Part II in this iteration.
 
-### Reference
+#### Link to Final Project Deliverable
 - [The Final Story Board: Even You Can Be A Digital Nomad](https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/index.html)
 - [Pitch Deck](https://www.canva.com/design/DAFOp_5mqgc/q19m89QAAJOKZWV43X_LmQ/view?utm_content=DAFOp_5mqgc&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
