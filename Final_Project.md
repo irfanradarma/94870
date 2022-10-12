@@ -5,11 +5,11 @@ For reference, here are the links to the previous parts.
 - [Part I: The Outline](https://irfanradarma.github.io/94870/FinalProject)
 - [Part II: The Wireframe (mock-up)](https://irfanradarma.github.io/94870/Project_Part2)
 
-Part III closes the previous iteration by concluding the iteration process of making this project and reflecting on the 1-minute pitch that has been done to deliver this project.
-
 Please visit the following links for a better experience in reviewing my final deliverables:
 - [The Final Story Board: Even You Can Be A Digital Nomad](https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/index.html)
 - [Pitch Deck](https://www.canva.com/design/DAFOp_5mqgc/q19m89QAAJOKZWV43X_LmQ/view?utm_content=DAFOp_5mqgc&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+Part III closes the previous iteration by concluding the iteration process of making this project and reflecting on the 1-minute pitch that has been done to deliver this project.
 
 ## The Last Adjustment (yet not least)
 In general, I can say that my plan from parts I and II did not always work. However, the main idea, which is about digital nomads, could still be preserved. Part II saw me doing my best to materialize the ideas established in Part I, but some of them were unable to be fulfilled since I needed to adapt the idea to the features of the platform that I would use for the final deliverable (shorthand). The good news is that I realized in Part II that my earlier plan lacked credible data, so I incorporated additional survey data there.
