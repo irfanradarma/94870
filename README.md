@@ -29,10 +29,10 @@ In this assignment, we were asked to look for examples of poor dataviz, then cri
 #### [Part I: Outline](https://irfanradarma.github.io/94870/FinalProject)
 This is the first part in my final project. I present a brief explanation of the project, complete with its structure, along with initial sketches. Furthermore, I give data sources as well as plans for methods and mediums for the final form.
 
-### [Part II: Wireframe](https://irfanradarma.github.io/94870/Project_Part2)
+#### [Part II: Wireframe](https://irfanradarma.github.io/94870/Project_Part2)
 Part II saw me doing my best to materialize the ideas established in Part I, but some of them were unable to be fulfilled since I needed to adapt the idea to the features of the platform that I would use for the final deliverable (shorthand).
 
-### [Part III: Final Deliverable](https://irfanradarma.github.io/94870/Final_Project)
+#### [Part III: Final Deliverable](https://irfanradarma.github.io/94870/Final_Project)
 Part III closes the previous iteration by concluding the iteration process of making this project and reflecting on the 1-minute pitch that has been done to deliver this project. I made a big adjustment to the Part II in this iteration.
 
 ### Reference
