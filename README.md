@@ -76,7 +76,7 @@ Part III closes the previous iteration by concluding the iteration process of ma
   style="display: inline-block; margin: 0 auto; max-width: 800px">
 
 <img
-  src="1st snippet2.png"
+  src="1st snippet 2.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
