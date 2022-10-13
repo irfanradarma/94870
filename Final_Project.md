@@ -35,6 +35,7 @@ Next up, D-Day. The reflection on my performance of doing a one-minute pitch, in
 
 
 Reference:
+- [Portfolio: My journey in this class](https://irfanradarma.github.io/94870/)
 - [Part I: The Outline](https://irfanradarma.github.io/94870/FinalProject)
 - [Part II: The Wireframe (mock-up)](https://irfanradarma.github.io/94870/Project_Part2)
 - [The Final Story Board: Even You Can Be A Digital Nomad](https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/index.html)
