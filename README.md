@@ -19,7 +19,7 @@ I had a unique motive for enrolling in this Telling Stories With Data class: to 
 
 The following is the assignment I have done for the class:
 
-### [Visualizing Government Debt](https://irfanradarma.github.io/94870/dataviz2)
+## [Visualizing Government Debt](https://irfanradarma.github.io/94870/dataviz2)
 Prof. Goranson instructed us to utilize General Debt data from the OECD website for this project. This assignment is divided up into three parts: 1) embed a visualization from the OECD website, 2) use the same data to build visualizations in Flourish, and 3) develop my own visualization in Flourish.
 
 #### From this:
@@ -30,7 +30,7 @@ Prof. Goranson instructed us to utilize General Debt data from the OECD website 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11130067"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### [Critique by Design](https://irfanradarma.github.io/94870/critique_by_design)
+## [Critique by Design](https://irfanradarma.github.io/94870/critique_by_design)
 In this assignment, we were asked to look for examples of poor dataviz, then critique them and rework them in accordance with the fundamentals we learned in this class.
 
 #### From this:
@@ -41,7 +41,7 @@ In this assignment, we were asked to look for examples of poor dataviz, then cri
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
   
- #### To this:
+#### To this:
   
   <div class='tableauPlaceholder' id='viz1663717299004' style='position: relative'><noscript><a href='#'><img alt='1st half of 2020: The number of disasters is alarming ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DisasaterFinal&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DisasaterFinal&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;DisasaterFinal&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
@@ -54,16 +54,37 @@ In this assignment, we were asked to look for examples of poor dataviz, then cri
 </script>
 
 
-### Final Project
-#### [Part I: Outline](https://irfanradarma.github.io/94870/FinalProject)
+## Final Project
+### [Part I: Outline](https://irfanradarma.github.io/94870/FinalProject)
 This is the first part in my final project. I present a brief explanation of the project, complete with its structure, along with initial sketches. Furthermore, I give data sources as well as plans for methods and mediums for the final form.
 
-#### [Part II: Wireframe](https://irfanradarma.github.io/94870/Project_Part2)
+### [Part II: Wireframe](https://irfanradarma.github.io/94870/Project_Part2)
 Part II saw me doing my best to materialize the ideas established in Part I, but some of them were unable to be fulfilled since I needed to adapt the idea to the features of the platform that I would use for the final deliverable (shorthand).
 
-#### [Part III: Final Deliverable](https://irfanradarma.github.io/94870/Final_Project)
+### [Part III: Final Deliverable](https://irfanradarma.github.io/94870/Final_Project)
 Part III closes the previous iteration by concluding the iteration process of making this project and reflecting on the 1-minute pitch that has been done to deliver this project. I made a big adjustment to the Part II in this iteration.
 
-#### Link to Final Project Deliverable
+### Link to Final Project Deliverable
 - [The Final Story Board: Even You Can Be A Digital Nomad](https://carnegiemellon.shorthandstories.com/being-a-digital-nomad/index.html)
 - [Pitch Deck](https://www.canva.com/design/DAFOp_5mqgc/q19m89QAAJOKZWV43X_LmQ/view?utm_content=DAFOp_5mqgc&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+### Snippet of the final project
+<img
+  src="snippet.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 800px">
+
+<img
+  src="1st snippet2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 800px">
+
+
+## Sketching Assignment
+Selain project-project di atas, Professor Goranson juga memberikan tugas sketchin setiap minggunya. Tugas-tugas ini mengacu pada satu buku karya Scott Berinato berjudul [Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations](https://www.goodreads.com/book/show/37956046-good-charts-workbook).
+
+### [Controlling Color](https://irfanradarma.github.io/94870/workbook_ch1)
+
+### [Crafting for Clarity]
