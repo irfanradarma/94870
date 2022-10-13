@@ -87,4 +87,23 @@ Selain project-project di atas, Professor Goranson juga memberikan tugas sketchi
 
 ### [Controlling Color](https://irfanradarma.github.io/94870/workbook_ch1)
 
-### [Crafting for Clarity]
+### [Crafting for Clarity](https://irfanradarma.github.io/94870/ch2/workbook_ch2)
+
+### [Choosing Chart Types](https://irfanradarma.github.io/94870/ch3/workbook_ch3)
+
+### [Practicing Persuasion](https://irfanradarma.github.io/94870/netflix/persuasion)
+
+
+### Snippet of Sketching Assignment
+
+<img
+  src="3.3.1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 800px">
+  
+<img
+  src="ch2/2.5.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 800px">
