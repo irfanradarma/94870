@@ -83,7 +83,7 @@ Part III closes the previous iteration by concluding the iteration process of ma
 
 
 ## Sketching Assignment
-Selain project-project di atas, Professor Goranson juga memberikan tugas sketchin setiap minggunya. Tugas-tugas ini mengacu pada satu buku karya Scott Berinato berjudul [Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations](https://www.goodreads.com/book/show/37956046-good-charts-workbook).
+In addition to the projects above, Professor Goranson also assigned sketching assignments every week. These assignments refer to a book by Scott Berinato entitled [Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations](https://www.goodreads.com/book/show/37956046-good-charts-workbook).
 
 ### [Controlling Color](https://irfanradarma.github.io/94870/workbook_ch1)
 
